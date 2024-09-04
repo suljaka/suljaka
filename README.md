@@ -1,6 +1,6 @@
 # <p align="center"> Hello, I'm Adam 👋
 
-If you've found this account, you've found my McMaster Engineering GitHub Page!__
+If you've found this account, you've found my McMaster Engineering GitHub Page! <br />
 Main Account: [sullynumber9](https://www.instagram.com/sullynumber9/)
 
 <!--

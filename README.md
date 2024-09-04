@@ -1,4 +1,7 @@
-## Hi there 👋
+# <p align="center"> Hello, I'm Adam 👋
+
+If you've found this account, you've found my McMaster Engineering GitHub Page
+Main Account: [sullynumber9](https://www.instagram.com/sullynumber9/)
 
 <!--
 **suljaka/suljaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
